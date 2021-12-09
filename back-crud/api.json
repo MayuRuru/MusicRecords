@@ -1,0 +1,40 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "album": "Se julgar incapaz foi maior erro que cometeu",
+      "band": "Bulimia",
+      "country": "Brazil",
+      "image": "image.png"
+    },
+    {
+      "id": 2,
+      "album": "Una vida",
+      "band": "Troika",
+      "country": "Madrid",
+      "image": "image.png"
+    },
+    {
+      "id": 3,
+      "album": "Hardcore punk feminista",
+      "band": "Perra vieja",
+      "country": "Madrid",
+      "image": "image.png"
+    },
+    {
+      "id": 4,
+      "album": "La Maqueta",
+      "band": "Abiertas hasta el amanecer",
+      "country": "Lleida",
+      "image": "image.png"
+    },
+    {
+      "album": "noooo",
+      "id": 10
+    },
+    {
+      "album": "hgdk",
+      "id": 11
+    }
+  ]
+}
