@@ -9,7 +9,7 @@
 
 ### 📺 This is how it looks atm:
 
-<img src="https://user-images.githubusercontent.com/92175898/157094825-8a89b845-4566-42bd-b6f1-dacd9f9b894d.png" width=70%>
+<img src="https://user-images.githubusercontent.com/92175898/157094825-8a89b845-4566-42bd-b6f1-dacd9f9b894d.png" width=50%>
 
 ## ⚒️ Tech Stack & Tools:
 
